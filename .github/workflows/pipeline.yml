@@ -1,4 +1,4 @@
-name: Ilk pipeline
+name: pipeline
 
 #trigger (tetikleyici)
 on:
